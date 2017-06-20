@@ -1,0 +1,21 @@
+{
+  "name": "embedded-template",
+  "version": "1.0.0",
+  "description": "template for embedded components, use wepack2 + vue2",
+  "main": "meta.js",
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/asamoon/embedded-tpl.git"
+  },
+  "keywords": [
+    "vue",
+    "webpack",
+    "template"
+  ],
+  "author": "asamoon",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/asamoon/embedded-tpl/issues"
+  },
+  "homepage": "https://github.com/asamoon/embedded-tpl#readme"
+}
