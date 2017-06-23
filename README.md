@@ -4,22 +4,32 @@
 
 ## Usage
 
-This is a project template for vue-cli.
-
-install vue-cli:
+安裝 vue-cli:
 ```
 $ npm install -g vue-cli
 ```
 
+安裝依賴套件
 ```
 $ vue init asamoon/embedded-tpl my-project
 $ cd my-project
 $ yarn install
-$ npm run dev
 ```
 
+執行並進入vue組件開發環境
+```
+$ npm run dev
+```
 serve with hot reload at localhost:3000
 
+
+## 完成vue組件的開發後
+
+將完成vue組件執行編譯
+```
+$ npm run build
+```
+編譯完成後的檔案將會匯出至 ```/dist``` 目錄下
 
 ## 在專案中嵌入
 
