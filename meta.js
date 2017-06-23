@@ -2,7 +2,7 @@
 * @Author: asamoon
 * @Date:   2017-06-20 11:25:01
 * @Last Modified by:   asamoon
-* @Last Modified time: 2017-06-20 11:44:18
+* @Last Modified time: 2017-06-20 12:25:57
 */
 
 module.exports = {
@@ -50,5 +50,5 @@ module.exports = {
       "message": "Install vuex?"
     }
   },
-  "completeMessage": "To get started:\n\n  {{^inPlace}}cd {{destDirName}}\n  {{/inPlace}}npm install\n  npm run dev\n\nDocumentation can be found at https://github.com/asamoon/embedded-tpl"
+  "completeMessage": "To get started:\n\n  {{^inPlace}}cd {{destDirName}}\n  {{/inPlace}}yarn install\n  npm run dev\n\nDocumentation can be found at https://github.com/asamoon/embedded-tpl"
 };
